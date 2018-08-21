@@ -1,0 +1,20 @@
+.Tilt {
+    height: 150px;
+    width: 150px;
+    background-image: linear-gradient(to right bottom, rgba(168, 202, 186, .7) 0%, rgba(93, 65, 87, .7) 100%);
+    margin: 50px 0 20px 60px;
+}
+
+.Tilt-inner{
+    position: relative;
+}
+
+img {
+    padding: 20px;
+}
+
+.emoji {
+    position: absolute;
+    top: 120px;
+    right: 65px;
+}
